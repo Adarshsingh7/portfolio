@@ -8,7 +8,7 @@ const App = () => {
 						hi, i am{' '}
 						<a
 							href='/'
-							className='text-blue-600 hover:underline'
+							className='text-gray-800 underline hover:text-blue-700'
 						>
 							adarsh singh
 						</a>
@@ -19,11 +19,10 @@ const App = () => {
 						institute of technology & management. mainly work in full-stack
 						development, backend systems and love building efficient solutions.
 					</p> */}
-					<p className='mb-4 text-gray-700 text-base lowercase'>
-						Backend-focused Software Engineer skilled in Node.js, Express, and
-						MongoDB, building scalable, real-time applications with optimized
-						performance, delivering production-grade solutions that improve
-						efficiency, speed, and reliability.
+					<p className='mb-4 text-gray-700 text-base'>
+						i am a final year student, studying computer science. mainly work in
+						llm post-training, making web apps (MERN) and love exploring new
+						things.
 					</p>
 				</div>
 
@@ -33,7 +32,7 @@ const App = () => {
 						📧{' '}
 						<a
 							href='mailto:officialadarsh2021@gmail.com'
-							className='text-blue-600 hover:underline font-medium'
+							className='text-gray-800 underline hover:text-blue-700 font-medium'
 						>
 							officialadarsh2021@gmail.com
 						</a>
@@ -45,7 +44,7 @@ const App = () => {
 						💼{' '}
 						<a
 							href='https://linkedin.com/in/adarsh-singh-a7370b248'
-							className='text-blue-600 hover:underline font-medium'
+							className='text-gray-800 underline hover:text-blue-700 font-medium'
 							target='_blank'
 							rel='noopener noreferrer'
 						>
@@ -56,7 +55,7 @@ const App = () => {
 						💻{' '}
 						<a
 							href='https://github.com/adarshsingh7'
-							className='text-blue-600 hover:underline font-medium'
+							className='text-gray-800 underline hover:text-blue-700 font-medium'
 							target='_blank'
 							rel='noopener noreferrer'
 						>
@@ -121,8 +120,8 @@ const App = () => {
 					<div className='ml-4'>
 						<p className='mb-3 text-gray-800'>
 							<a
-								href='#'
-								className='text-blue-600 hover:underline font-medium'
+								href='https://github.com/Adarshsingh7/fleet-flow'
+								className='text-gray-800 underline hover:text-blue-700 font-medium'
 							>
 								fleetflow - real-time tracking system
 							</a>
@@ -133,8 +132,8 @@ const App = () => {
 						</p>
 						<p className='mb-5 text-gray-800'>
 							<a
-								href='#'
-								className='text-blue-600 hover:underline font-medium'
+								href='https://github.com/Adarshsingh7/restro-dashboard'
+								className='text-gray-800 underline hover:text-blue-700 font-medium'
 							>
 								restaurant management application
 							</a>
@@ -188,8 +187,7 @@ const App = () => {
 				</div>
 
 				{/* Education */}
-				<div className='mb-8'>
-					{/* <h2 className='text-base font-normal mb-4'>education</h2> */}
+				{/* <div className='mb-8'>
 					<Heading text='education' />
 					<div className='ml-4'>
 						<p className='mb-2'>
@@ -203,18 +201,17 @@ const App = () => {
 						</p>
 						<p className='ml-2 text-gray-700 mb-4'>percentage: 80%</p>
 					</div>
-				</div>
+				</div> */}
 
 				{/* Certifications */}
-				<div className='mb-8'>
-					{/* <h2 className='text-base font-normal mb-4'>certifications</h2> */}
+				{/* <div className='mb-8'>
 					<Heading text='certifications' />
 					<div className='ml-4'>
 						<p className='mb-2'>
 							-{' '}
 							<a
 								href='#'
-								className='text-blue-600 hover:underline'
+								className='text-gray-800 underline hover:text-blue-700'
 							>
 								the complete javascript course 2025
 							</a>
@@ -224,14 +221,14 @@ const App = () => {
 							-{' '}
 							<a
 								href='#'
-								className='text-blue-600 hover:underline'
+								className='text-gray-800 underline hover:text-blue-700'
 							>
 								node.js, express, mongodb bootcamp
 							</a>
 							: complete backend development course
 						</p>
 					</div>
-				</div>
+				</div> */}
 
 				{/* Footer */}
 				<div className='border-t border-gray-200 pt-6 mt-12'>
